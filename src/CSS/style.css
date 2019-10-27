@@ -2,11 +2,15 @@
     border:2px solid green;
     border-radius: 5%;
     min-width: 100px;
-    min-height: 300px;
+    min-height: 50px;
 }
 
 .grid{
     display: flex;
     justify-content: center;
     color:black
+}
+
+.withborder{
+    border: 1px solid black;
 }
