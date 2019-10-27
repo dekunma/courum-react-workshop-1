@@ -1,0 +1,12 @@
+.btn{
+    border:2px solid green;
+    border-radius: 5%;
+    min-width: 100px;
+    min-height: 300px;
+}
+
+.grid{
+    display: flex;
+    justify-content: center;
+    color:black
+}
